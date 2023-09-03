@@ -15,7 +15,7 @@ function Home() {
         <img height={200} src={require("./assets/images/camp.jpg")} alt="camping" />
       </div> */}
       <div>
-        <h1>Random Image From Unsplasg</h1>
+        <h1>Random Image From Unsplash</h1>
         <img height={200} src={randomImageUrl} alt="camping" />
       </div>
     </div>
